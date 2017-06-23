@@ -1,0 +1,7 @@
+D:\Github\ProgressBarConsoleApp\HttpSimulator\bin\Debug\netcoreapp1.1\HttpSimulator.deps.json
+D:\Github\ProgressBarConsoleApp\HttpSimulator\bin\Debug\netcoreapp1.1\HttpSimulator.dll
+D:\Github\ProgressBarConsoleApp\HttpSimulator\obj\Debug\netcoreapp1.1\HttpSimulator.AssemblyInfo.cs
+D:\Github\ProgressBarConsoleApp\HttpSimulator\bin\Debug\netcoreapp1.1\HttpSimulator.pdb
+D:\Github\ProgressBarConsoleApp\HttpSimulator\obj\Debug\netcoreapp1.1\HttpSimulator.dll
+D:\Github\ProgressBarConsoleApp\HttpSimulator\obj\Debug\netcoreapp1.1\HttpSimulator.pdb
+D:\Github\ProgressBarConsoleApp\HttpSimulator\obj\Debug\netcoreapp1.1\HttpSimulator.csprojResolveAssemblyReference.cache

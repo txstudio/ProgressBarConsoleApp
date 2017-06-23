@@ -1,0 +1,11 @@
+D:\Github\ProgressBarConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.deps.json
+D:\Github\ProgressBarConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.runtimeconfig.json
+D:\Github\ProgressBarConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.runtimeconfig.dev.json
+D:\Github\ProgressBarConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.dll
+D:\Github\ProgressBarConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.pdb
+D:\Github\ProgressBarConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Github\ProgressBarConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.AssemblyInfo.cs
+D:\Github\ProgressBarConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.dll
+D:\Github\ProgressBarConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.pdb
+D:\Github\ProgressBarConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\HttpSimulator.dll
+D:\Github\ProgressBarConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\HttpSimulator.pdb
