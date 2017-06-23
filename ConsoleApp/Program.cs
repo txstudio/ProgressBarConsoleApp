@@ -60,9 +60,11 @@ namespace ConsoleApp
             var _currentValue = e.CurrentValue;
             var _tick = Convert.ToInt32(_currentValue * 25 / _presentTotal);
 
+            //設定主控台的指標打印進度條
             Console.SetCursorPosition(_positionLeft + _tick, _positionTop);
             Console.Write("-");
 
+            //設定主控台的指標打印百分比資訊
             Console.SetCursorPosition(_presentLeft, _positionTop);
             Console.Write(_currentValue.ToString().PadLeft(3,' '));
         }
